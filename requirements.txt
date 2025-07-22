@@ -1,0 +1,5 @@
+gradio==4.16.0
+pandas
+scikit-learn==1.6.1
+joblib
+flask
